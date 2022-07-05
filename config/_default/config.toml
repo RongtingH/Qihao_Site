@@ -9,7 +9,8 @@ title = "Rongting Huang"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://Rongtingting.github.io/"
+# baseurl = "https://rongtingh.github.io/Qihao_Wu/"
+baseurl = "https://rongtingh.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
