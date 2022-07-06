@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Rongting Huang homepage"
+description = "Qihao Wu homepage"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "static/img/"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "RongtingHuang"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,11 +50,11 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rthuang@connect.hku.hk"
+email = "qihaowu@connect.hku.hk"
 # phone = "010-82801585" Beijing
-phone = "852-28315093"
+phone = "852-56338573"
 # address = "No.38, Xueyuan Road, Haidian District, Peking University Health Science Center, Beijing 100191, China"
-address = "Rm 1-05E, 1/F, Jockey Club Building for Interdisciplinary Research, 5 Sassoon Road, Pokfulam, Hong Kong"
+address = "RSC, The University of Hong Kong"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -66,7 +66,8 @@ address = "Rm 1-05E, 1/F, Jockey Club Building for Interdisciplinary Research, 5
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/RongtingHuang"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/qihao-wu-7a1a16150/"},
+  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/RongtingHuang"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

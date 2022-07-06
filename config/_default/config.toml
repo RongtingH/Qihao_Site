@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Rongting Huang"
+title = " Qihao Wu"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -14,7 +14,7 @@ baseurl = "https://rongtingh.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2022 Rongting Huang"
+copyright = "&copy; 2022 Qihao Wu"
 
 # Enable analytics by entering your Google Analytics tracking ID
 # googleAnalytics = "UA-12345678-9"

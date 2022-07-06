@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Rongting Huang"
+name = "Qihao Wu"
 
 # Username (this should match the folder name)
-authors = ["Rongting"]
+authors = ["Qihao"]
 
 # Is this the primary user of the site?
 superuser = true
@@ -14,21 +14,20 @@ role = "PhD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Hong Kong", url = "https://www.hku.hk/" },{name = "School of Biomedical Sciences", url = "https://www.sbms.hku.hk/"} ]
+organizations = [ { name = "The University of Hong Kong", url = "https://www.hku.hk/" },{name = "Department of Industrial and Manufacturing Systems Engineering", url = "https://www.imse.hku.hk/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "PhD student"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "rthuang@connect.hku.hk"
+email = "qihaowu@connect.hku.hk"
 
 # List (academic) interests or hobbies
 interests = [
-  "Computational Biology",
-  "Single-Cell Genomics",
-  "Proteomics",
-  "Machine Learning",
-  "Photography"
+  "Optimizations",
+  "Financial Engineering",
+  "Operational Research",
+  "Machine Learning"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -37,20 +36,24 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD student in Computational biology"
+  course = "PhD student in Operations Research"
   institution = "The University of Hong Kong"
-  year = "2020-present"
+  year = "2021-present"
 
 [[education.courses]]
-  course = "MSc in Biomedical Informatics"
-  #course = "Master student in Biomedical Informatics"
-  institution = "School of Basic Medical Sciences, Peking University"
-  year = 2020
+  course = "MSc in Advanced Computational Methods, Department of Aeronautics"
+  institution = "Imperial College London"
+  year = 2021
 
 [[education.courses]]
-  course = "BEng in Automation"
-  institution = "Department of Automation, Xiamen University"
-  year = 2017
+  course = "BEng in Mechatronics"
+  institution = "University of Wollongong"
+  year = "2018-2019"
+
+[[education.courses]]
+  course = "BEng in Mechatronics"
+  institution = "Beijing Jiaotong University"
+  year = "2015-2019"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -60,12 +63,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:rthuang@connect.hku.hk"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:qihaowu@connect.hku.hk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/Rongtingting"
+  link = "https://github.com/Qihao-Wu"
 
 [[social]]
   icon = "google-scholar"
@@ -82,15 +85,15 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Rongting-Huang"
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/RongtingHuang"
+# [[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/RongtingHuang"
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fabs"
-  link = "https://www.linkedin.com/in/rongting-huang-502ab0131/"
+  link = "https://www.linkedin.com/in/qihao-wu-7a1a16150/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -102,8 +105,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a PhD student from [StatBiomed Group](https://web.hku.hk/~yuanhua/) at the [School of Biomedical Sciences](https://www.sbms.hku.hk//), [Li Ka Shing Faculty of Medicine](https://www.med.hku.hk/), [The University of Hong Kong](https://www.hku.hk/).
+I am a PhD student from [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/), [The University of Hong Kong](https://www.hku.hk/).
 
-I :heart: Computational Biology :smile:.
+I :heart: Operational Research :smile:.
 
 <!-- I love the Python programming language as well as R. -->

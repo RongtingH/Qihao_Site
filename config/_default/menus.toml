@@ -28,10 +28,10 @@
   url = "/tutorial/"
   weight = 50
 
-[[main]]
-  name = "RT Life"
-  url = "/Life/"
-  weight = 60
+#[[main]]
+#  name = "RT Life"
+#  url = "/Life/"
+#  weight = 60
 
 [[main]]
   name = "Contact"
